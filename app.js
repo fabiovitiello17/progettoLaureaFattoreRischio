@@ -9,7 +9,7 @@
   }
 
   function buildPdfUrl(){
-    return "https://pdfhost.io/v/pvBTtATeCH_guida_fattore_rischio";
+    return "https://pdfhost.io/v/dWhMxaQQ5Z_progetto_fattore_rischio";
   }
 
   async function copyToClipboard(text){
