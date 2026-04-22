@@ -1,1 +1,1 @@
-Scaricare il documento PDF per visualizzarlo correttamente
+Scaricare manualmente il documento PDF per visualizzarlo correttamente
