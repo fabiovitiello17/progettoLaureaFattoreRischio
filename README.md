@@ -2,4 +2,4 @@ Scaricare manualmente il documento PDF per visualizzarlo correttamente o aprire 
 
 Documento calcolo fattore di rischio : https://pdfhost.io/v/dWhMxaQQ5Z_progetto_fattore_rischio
 
-Template : da inserire
+Template : https://pdfhost.io/v/xfCxhMveQs_Vitiello_Fabio_0312302111
